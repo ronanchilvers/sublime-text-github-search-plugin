@@ -1,6 +1,6 @@
 # Sublime Github Search plugin
 
-A plugin to search github code, issues and pull requests.
+A plugin to search github code, issues and pull requests. Kudos to [kanghj](https://github.com/kanghj) who wrote the [first version of the plugin](https://github.com/kanghj/sublime-text-github-search-plugin).
 
 # Usage
 
