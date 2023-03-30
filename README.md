@@ -12,8 +12,8 @@ Highlight a piece of text (or multiple pieces of text) in your editor window. Th
 
 ## Default Key Bindings
 
-**NB:** For all these key bindings, hold down `ctrl` + `alt` + `g` in addition to pressing the specific binding key.
-ManyToMany
+**NB:** For all these key bindings, hold down `shift` + `alt` + `g` in addition to pressing the specific binding key.
+
 - code search - `c`
 - issue search - `c`
 - pull request search - `c`
